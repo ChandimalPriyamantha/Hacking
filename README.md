@@ -1,2 +1,2 @@
 # Hacking
- Ethical Hackin t testing code are avalable
+ Ethical Hackin testing code are avalable
